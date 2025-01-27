@@ -1,7 +1,7 @@
 # Hi, I’m @Vikram Singh Navsinde 👋
 
 - 👀 I’m interested in **software development**, **cloud technologies**, **microservices architecture**, and **scalable web applications**.
-- 🌱 I’m currently learning **serverless architectures**, **advanced AWS services**, and **real-time data streaming with Kafka**.
+- 🌱 I’m currently Exceled in **serverless architectures**, **advanced AWS services**, and **real-time data streaming with Kafka**.
 - 💞️ I’m looking to collaborate on **cloud-based projects**, **open-source contributions**, and **building cutting-edge microservices systems**.
 - 📫 You can reach me via email at **vikramsinghnavsinde@gmail.com** or through my LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/vikramsinghnavsinde).
 - 😄 Pronouns: **He/Him**
